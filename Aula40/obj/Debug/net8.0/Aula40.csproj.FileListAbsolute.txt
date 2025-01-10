@@ -1,0 +1,4 @@
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula40\obj\Debug\net8.0\Aula40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula40\obj\Debug\net8.0\Aula40.AssemblyInfoInputs.cache
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula40\obj\Debug\net8.0\Aula40.AssemblyInfo.cs
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula40\obj\Debug\net8.0\Aula40.csproj.CoreCompileInputs.cache
