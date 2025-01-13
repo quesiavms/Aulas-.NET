@@ -12,3 +12,4 @@ C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula42\obj\Debug\net8.0\
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula42\obj\Debug\net8.0\Aula42.pdb
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula42\obj\Debug\net8.0\Aula42.genruntimeconfig.cache
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula42\obj\Debug\net8.0\ref\Aula42.dll
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula42\obj\Debug\net8.0\Aula42.sourcelink.json
