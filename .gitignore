@@ -1,3 +1,24 @@
 chave do github: https://github.com/quesiavms/Aulas-.NET.git
-C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\C#.sln
-C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\shortcut_classes_metodos_c#.jpg
+
+COMANDOS DO GITHUB PARA APRENDER E PRATICAR
+
+iniciar projeto e jogar no github - git init
+                                    git remote add origin https://github.com/seu-usuario/nome-do-repositorio.git
+                                    git add .
+                                    git commit -m "Descrição das mudanças realizadas"
+                                    git branch -M main
+                                    git push -u origin main (jogar no github)
+
+confirmar o repositorio local ----  git remote -v
+
+atualizar o github ---------------- git add .
+                                    git commit -m "Atualizações no projeto"
+                                    git push origin main (jogar no github)
+
+pegar projeto do github ----------  git clone https://github.com/seu-usuario/nome-do-repositorio.git
+                                    cd nome-do-repositorio
+                                    git pull origin main (pegar do github)
+
+sincronizar repositorio local com as alterações mais recentes do branch remoto main 
+----------------------------------  git checkout main
+                                    git pull origin main

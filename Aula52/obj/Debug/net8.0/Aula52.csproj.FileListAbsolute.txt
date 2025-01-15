@@ -1,0 +1,15 @@
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\bin\Debug\net8.0\Aula52.exe
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\bin\Debug\net8.0\Aula52.deps.json
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\bin\Debug\net8.0\Aula52.runtimeconfig.json
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\bin\Debug\net8.0\Aula52.dll
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\bin\Debug\net8.0\Aula52.pdb
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\Aula52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\Aula52.AssemblyInfoInputs.cache
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\Aula52.AssemblyInfo.cs
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\Aula52.csproj.CoreCompileInputs.cache
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\Aula52.sourcelink.json
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\Aula52.dll
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\refint\Aula52.dll
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\Aula52.pdb
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\Aula52.genruntimeconfig.cache
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula52\obj\Debug\net8.0\ref\Aula52.dll
