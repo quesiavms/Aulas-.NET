@@ -1,0 +1,12 @@
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\bin\Debug\Aula60.exe.config
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\bin\Debug\Aula60.exe
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\bin\Debug\Aula60.pdb
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\bin\Debug\Aula60.xml
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\obj\Debug\Aula60.vbproj.AssemblyReference.cache
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\obj\Debug\Aula60.Form1.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\obj\Debug\Aula60.Resources.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\obj\Debug\Aula60.vbproj.GenerateResource.cache
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\obj\Debug\Aula60.vbproj.CoreCompileInputs.cache
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\obj\Debug\Aula60.exe
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\obj\Debug\Aula60.xml
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\Aula60\Aula60\obj\Debug\Aula60.pdb
