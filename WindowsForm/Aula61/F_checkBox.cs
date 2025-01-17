@@ -12,9 +12,14 @@ namespace Aula61
 {
     public partial class F_checkBox : Form
     {
+        List<CheckBox> transp = new List<CheckBox>();
         public F_checkBox()
         {
             InitializeComponent();
+            transp.Add(cb_carro);
+            transp.Add(cb_aviao);
+            transp.Add(cb_navio);
+            transp.Add(cb_onibus);
         }
 
         private void F_checkBox_Load(object sender, EventArgs e)
@@ -25,21 +30,13 @@ namespace Aula61
         private void btn_transportesMarcados_Click(object sender, EventArgs e)
         {
             string txt = "";
-            if (cb_carro.Checked)
+
+            foreach (CheckBox t in transp)
             {
-                txt += cb_carro.Text + ", ";
-            }
-            if (cb_aviao.Checked)
-            {
-                txt += cb_aviao.Text + ", ";
-            }
-            if (cb_navio.Checked)
-            {
-                txt += cb_navio.Text + ", ";
-            }
-            if (cb_onibus.Checked)
-            {
-                txt += cb_onibus.Text + ", ";
+                if (t.Checked)
+                {
+                    txt += t.Text + ", ";
+                }
             }
             MessageBox.Show(txt);
         }
@@ -50,6 +47,12 @@ namespace Aula61
             {
                 MessageBox.Show("Patinete Marcada");
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            F_filhoCheckBox f_FilhoCheckBox = new F_filhoCheckBox();
+            f_FilhoCheckBox.ShowDialog();
         }
     }
 }
