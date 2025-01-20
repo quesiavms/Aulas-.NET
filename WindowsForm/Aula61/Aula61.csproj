@@ -70,11 +70,59 @@
     <Compile Include="F_ComboBox.Designer.cs">
       <DependentUpon>F_ComboBox.cs</DependentUpon>
     </Compile>
+    <Compile Include="F_DateTimePicker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_DateTimePicker.Designer.cs">
+      <DependentUpon>F_DateTimePicker.cs</DependentUpon>
+    </Compile>
     <Compile Include="F_filhoCheckBox.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="F_filhoCheckBox.Designer.cs">
       <DependentUpon>F_filhoCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_LinkLabel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_LinkLabel.Designer.cs">
+      <DependentUpon>F_LinkLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_ListBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_ListBox.Designer.cs">
+      <DependentUpon>F_ListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_ListView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_ListView.Designer.cs">
+      <DependentUpon>F_ListView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_MaskedTextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_MaskedTextBox.Designer.cs">
+      <DependentUpon>F_MaskedTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_MonthCalendar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_MonthCalendar.Designer.cs">
+      <DependentUpon>F_MonthCalendar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_NumericUpDown.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_NumericUpDown.Designer.cs">
+      <DependentUpon>F_NumericUpDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="F_PictureBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="F_PictureBox.Designer.cs">
+      <DependentUpon>F_PictureBox.cs</DependentUpon>
     </Compile>
     <Compile Include="F_Veiculos.cs">
       <SubType>Form</SubType>
@@ -96,25 +144,50 @@
     <EmbeddedResource Include="F_ComboBox.resx">
       <DependentUpon>F_ComboBox.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="F_DateTimePicker.resx">
+      <DependentUpon>F_DateTimePicker.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="F_filhoCheckBox.resx">
       <DependentUpon>F_filhoCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_LinkLabel.resx">
+      <DependentUpon>F_LinkLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_ListBox.resx">
+      <DependentUpon>F_ListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_ListView.resx">
+      <DependentUpon>F_ListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_MaskedTextBox.resx">
+      <DependentUpon>F_MaskedTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_MonthCalendar.resx">
+      <DependentUpon>F_MonthCalendar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_NumericUpDown.resx">
+      <DependentUpon>F_NumericUpDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="F_PictureBox.resx">
+      <DependentUpon>F_PictureBox.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="F_Veiculos.resx">
       <DependentUpon>F_Veiculos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
       <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\Settings.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Settings.settings</DependentUpon>
@@ -123,6 +196,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\moon_wallpaper1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sasuke_wallpaper.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\wallpaper_cloud1.jpeg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -39,3 +39,11 @@ C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\D
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.pdb
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_filhoCheckBox.resources
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_ComboBox.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_DateTimePicker.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_LinkLabel.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_ListBox.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_ListView.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_MaskedTextBox.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_MonthCalendar.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_NumericUpDown.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_PictureBox.resources
