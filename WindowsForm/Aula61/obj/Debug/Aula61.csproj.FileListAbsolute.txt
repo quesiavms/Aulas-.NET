@@ -47,3 +47,5 @@ C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\D
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_MonthCalendar.resources
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_NumericUpDown.resources
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_PictureBox.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_ProgressBar.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_RadioButton.resources
