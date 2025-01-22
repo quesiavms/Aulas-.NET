@@ -60,12 +60,14 @@
             this.tableLayoutPanelToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.toolStripContainerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.backGroundWorkerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.timerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.notifyIcon1 = new System.Windows.Forms.NotifyIcon(this.components);
             this.MenuNotificacao = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.tsmi_Restaurar = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmi_Mensagem = new System.Windows.Forms.ToolStripMenuItem();
             this.tsmi_Fechar = new System.Windows.Forms.ToolStripMenuItem();
-            this.timerToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sQLiteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sQLiteToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.MenuNotificacao.SuspendLayout();
             this.SuspendLayout();
@@ -145,7 +147,8 @@
             // 
             this.menuStrip1.ImageScalingSize = new System.Drawing.Size(20, 20);
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.componentesToolStripMenuItem});
+            this.componentesToolStripMenuItem,
+            this.sQLiteToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(463, 28);
@@ -328,6 +331,13 @@
             this.backGroundWorkerToolStripMenuItem.Text = "BackGroundWorker";
             this.backGroundWorkerToolStripMenuItem.Click += new System.EventHandler(this.backGroundWorkerToolStripMenuItem_Click);
             // 
+            // timerToolStripMenuItem
+            // 
+            this.timerToolStripMenuItem.Name = "timerToolStripMenuItem";
+            this.timerToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
+            this.timerToolStripMenuItem.Text = "Timer";
+            this.timerToolStripMenuItem.Click += new System.EventHandler(this.timerToolStripMenuItem_Click);
+            // 
             // notifyIcon1
             // 
             this.notifyIcon1.ContextMenuStrip = this.MenuNotificacao;
@@ -364,12 +374,20 @@
             this.tsmi_Fechar.Size = new System.Drawing.Size(151, 24);
             this.tsmi_Fechar.Text = "Fechar";
             // 
-            // timerToolStripMenuItem
+            // sQLiteToolStripMenuItem
             // 
-            this.timerToolStripMenuItem.Name = "timerToolStripMenuItem";
-            this.timerToolStripMenuItem.Size = new System.Drawing.Size(224, 26);
-            this.timerToolStripMenuItem.Text = "Timer";
-            this.timerToolStripMenuItem.Click += new System.EventHandler(this.timerToolStripMenuItem_Click);
+            this.sQLiteToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.sQLiteToolStripMenuItem1});
+            this.sQLiteToolStripMenuItem.Name = "sQLiteToolStripMenuItem";
+            this.sQLiteToolStripMenuItem.Size = new System.Drawing.Size(66, 24);
+            this.sQLiteToolStripMenuItem.Text = "SQLite";
+            // 
+            // sQLiteToolStripMenuItem1
+            // 
+            this.sQLiteToolStripMenuItem1.Name = "sQLiteToolStripMenuItem1";
+            this.sQLiteToolStripMenuItem1.Size = new System.Drawing.Size(224, 26);
+            this.sQLiteToolStripMenuItem1.Text = "SQLite";
+            this.sQLiteToolStripMenuItem1.Click += new System.EventHandler(this.sQLiteToolStripMenuItem1_Click);
             // 
             // F_Principal
             // 
@@ -437,6 +455,8 @@
         private System.Windows.Forms.ToolStripMenuItem toolStripContainerToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem backGroundWorkerToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem timerToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sQLiteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sQLiteToolStripMenuItem1;
     }
 }
 

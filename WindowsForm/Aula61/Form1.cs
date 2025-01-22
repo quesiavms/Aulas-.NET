@@ -217,5 +217,11 @@ namespace Aula61
             F_Timer f_Timer = new F_Timer();
             f_Timer.ShowDialog();
         }
+
+        private void sQLiteToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            F_SQLite f_SQLite = new F_SQLite();
+            f_SQLite.ShowDialog();
+        }
     }
 }
