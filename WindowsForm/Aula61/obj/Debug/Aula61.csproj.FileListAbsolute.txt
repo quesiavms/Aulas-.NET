@@ -52,3 +52,9 @@ C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\D
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_TrackBar.resources
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_TreeView.resources
 C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_WebBrowser.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_SplitContainer.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_TabControl.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_TableLayoutPanel.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_BackGroundWorker.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_ToolStripContainer.resources
+C:\Users\quesi\OneDrive\.Estagio_TCS\Estagio_Courses\C#\WindowsForm\Aula61\obj\Debug\Aula61.F_Timer.resources

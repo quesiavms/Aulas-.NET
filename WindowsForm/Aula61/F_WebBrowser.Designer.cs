@@ -43,10 +43,10 @@
             // webBrowser1
             // 
             this.webBrowser1.Dock = System.Windows.Forms.DockStyle.Bottom;
-            this.webBrowser1.Location = new System.Drawing.Point(0, 200);
+            this.webBrowser1.Location = new System.Drawing.Point(0, 87);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 20);
             this.webBrowser1.Name = "webBrowser1";
-            this.webBrowser1.Size = new System.Drawing.Size(1022, 250);
+            this.webBrowser1.Size = new System.Drawing.Size(1068, 363);
             this.webBrowser1.TabIndex = 0;
             // 
             // tb_url
@@ -121,7 +121,7 @@
             // 
             this.btn_pesquisa.Location = new System.Drawing.Point(820, 12);
             this.btn_pesquisa.Name = "btn_pesquisa";
-            this.btn_pesquisa.Size = new System.Drawing.Size(75, 23);
+            this.btn_pesquisa.Size = new System.Drawing.Size(99, 23);
             this.btn_pesquisa.TabIndex = 8;
             this.btn_pesquisa.Text = "Pesquisa";
             this.btn_pesquisa.UseVisualStyleBackColor = true;
@@ -129,9 +129,9 @@
             // 
             // btn_definirHome
             // 
-            this.btn_definirHome.Location = new System.Drawing.Point(901, 12);
+            this.btn_definirHome.Location = new System.Drawing.Point(925, 12);
             this.btn_definirHome.Name = "btn_definirHome";
-            this.btn_definirHome.Size = new System.Drawing.Size(109, 23);
+            this.btn_definirHome.Size = new System.Drawing.Size(131, 23);
             this.btn_definirHome.TabIndex = 9;
             this.btn_definirHome.Text = "Definir Home";
             this.btn_definirHome.UseVisualStyleBackColor = true;
@@ -141,7 +141,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1022, 450);
+            this.ClientSize = new System.Drawing.Size(1068, 450);
             this.Controls.Add(this.btn_definirHome);
             this.Controls.Add(this.btn_pesquisa);
             this.Controls.Add(this.btn_atualizar);
@@ -154,7 +154,7 @@
             this.Controls.Add(this.webBrowser1);
             this.Name = "F_WebBrowser";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "F_WebBrowser";
+            this.Text = "cd..";
             this.ResumeLayout(false);
             this.PerformLayout();
 
